@@ -1,4 +1,4 @@
-![image](https://github.com/TomiwaPro/United-States-Retail-records/assets/160256704/b1d4d51b-55be-4d0f-9858-b7674f02053f)# United States Retail records
+# United States Retail records
 ## Introduction
 When determing which products to offer, several critical factors should be taken into account to ensure successful market entry and sustsained profitability. In this project, I wil be addressing some of these factors so as to be able to choose the best product category one can offer in United States. The dataset analysed in this project is gotten from [kaggle](https://www.kaggle.com/) a popular open source for datasets. Get dataset [Here](https://www.kaggle.com/datasets/abdurraziq01/retail-data). This dataset is of retail data collected from various retailers across the United States, covering cities like Phoenix, Los Angeles, San Diego, San Jose and Houston from july 14, 2020 to july 14, 2023.
 
