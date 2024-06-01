@@ -874,7 +874,7 @@ fig_marketing_sales.update_layout(title='Marketing Expenditure vs Sales Volume',
 fig_marketing_sales.show()
 ```
 ![Marketing Expenditure vs Sales Volume](https://github.com/TomiwaPro/United-States-Retail-records/assets/160256704/1ec488e3-315b-4f0d-8bac-90915af7a337)
-
+#### Note: All the plots created from these analysis are interaction, the images are just the representation of how the outputs look.
 Thank you for reading and checking up to this point. What are your thoughts on this case study? Do you agree or disagree with any parts of it? Please share your suggestions, Questions, corrections, or clarifications [HERE](mailto:tomiwaprofficial@gmail.com).
 
 I am actively seeking data analyst positions. Feel free to [Refer me](https://www.linkedin.com/in/tomiwapro/) or [Contact me](mailto:tomiwaprofficial@gmail.com) if you have relevant opportunities. Thank you!
