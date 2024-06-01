@@ -7,7 +7,9 @@ When determing which products to offer, several critical factors should be taken
 - Customer Demographics and Preferences:
 
 What age group has the highest spending score?
+
 Is there a significant difference in spending scores between genders?
+
 What is the average annual income of customers buying different product categories?
 
 - Product Popularity and Profitability:
