@@ -204,7 +204,7 @@ fig = px.density_heatmap(df, x='Gender', y='SpendingScore',
 
 fig.update_layout(
     title={
-        'text': 'Spending Score by Age',
+        'text': 'Spending Score by Gender',
         'x': 0.5,
         'xanchor': 'center'
     },
@@ -226,7 +226,8 @@ fig.update_traces(textfont_size=15)
 
 fig.show()
 ```
-![Spending score between gender](https://github.com/TomiwaPro/United-States-Retail-records/assets/160256704/b8791c67-dd41-4a21-9ca5-649f4c274aa8)
+![Spending score between gender](https://github.com/TomiwaPro/United-States-Retail-records/assets/160256704/49a840ac-5c90-4eae-88aa-57e9c6ec7ba5)
+
 
 The highest density observed for female at a spending score of 100 with a density value of 1036. The highest density for males at a spending score of 100 is 972, slightly lower than that of females.
 
