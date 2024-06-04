@@ -270,6 +270,7 @@ print(average_income_by_category)
 def format_number(value):
     return f'${value / 1000:.2f}k'
 ```
+```sql
 # This create a new column in the DataFrame for the formatted text
 average_income_by_category['Formatted_Income'] = average_income_by_category['Average Annual Income'].apply(format_number)
 
