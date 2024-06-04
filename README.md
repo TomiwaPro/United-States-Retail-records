@@ -258,19 +258,16 @@ What's the average annual income of customer buying different product categories
 ```sql
 # This group by 'ProductCategory' and calculate the mean of 'AnnualIncome'
 average_income_by_category = df.groupby('ProductCategory')['AnnualIncome'].mean().reset_index()
-```
-```sql
+
 # This rename columns for clarity
 average_income_by_category.columns = ['Product Category', 'Average Annual Income']
-```
-```sql
+
 # This display the results
 print(average_income_by_category)
 
 def format_number(value):
     return f'${value / 1000:.2f}k'
-```
-```sql
+
 # This create a new column in the DataFrame for the formatted text
 average_income_by_category['Formatted_Income'] = average_income_by_category['Average Annual Income'].apply(format_number)
 
